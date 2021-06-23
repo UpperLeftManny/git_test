@@ -1,0 +1,1 @@
+This is Manny's first git project! 
